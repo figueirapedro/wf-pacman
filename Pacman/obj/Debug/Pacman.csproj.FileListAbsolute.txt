@@ -1,0 +1,10 @@
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Pacman\Pacman\obj\Debug\Pacman.pdb
